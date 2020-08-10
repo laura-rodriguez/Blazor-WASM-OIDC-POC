@@ -1,0 +1,9 @@
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\bin\Debug\netstandard2.1\BlazorAppWASM2.Shared.deps.json
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\bin\Debug\netstandard2.1\BlazorAppWASM2.Shared.dll
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\bin\Debug\netstandard2.1\BlazorAppWASM2.Shared.pdb
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.csprojAssemblyReference.cache
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.AssemblyInfoInputs.cache
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.AssemblyInfo.cs
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.csproj.CoreCompileInputs.cache
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.dll
+C:\source\experiments\BlazorAppWASM2\BlazorAppWASM2\Shared\obj\Debug\netstandard2.1\BlazorAppWASM2.Shared.pdb
