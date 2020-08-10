@@ -11,3 +11,8 @@ This example includes:
 
 I followed the instructions provided by Microsoft [here](https://docs.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/standalone-with-authentication-library?view=aspnetcore-3.1&tabs=visual-studio).
 Tested successfully with Okta as the Idp.
+
+
+## Prerequisites
+
+Open the `BlazorAppWASM2.Client.Program` file and replace the `{issuer}` and `{clientId}` placeholders with your OIDC configuration.
